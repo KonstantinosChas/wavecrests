@@ -12,3 +12,5 @@ Further tasks:
 1. write routine for plotting
 2. clear useful functions from obsolete (not many)
 3. add functions for more advanced stastistics
+
+   (c) Konstantinos Chasapis 2020-2023
